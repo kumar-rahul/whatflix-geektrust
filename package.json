@@ -16,7 +16,15 @@
     "typescript": "^3.0.3"
   },
   "dependencies": {
+    "@types/koa": "^2.0.46",
+    "@types/koa-bodyparser": "^5.0.1",
+    "@types/koa-logger": "^3.1.0",
+    "@types/koa-router": "^7.0.31",
     "koa": "^2.5.2",
+    "koa-bodyparser": "^4.2.1",
+    "koa-logger": "^3.2.0",
+    "koa-router": "^7.4.0",
+    "typeorm": "^0.2.7",
     "typescript-ioc": "^1.2.4"
   }
 }
